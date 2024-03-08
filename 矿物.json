@@ -1,0 +1,795 @@
+[
+  {
+    "item-id": "铈",
+    "item-name": "铈",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "YAG",
+    "item-name": "钇铝石榴石",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "镓",
+    "item-name": "镓",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "铟",
+    "item-name": "铟",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "铁矿石",
+    "item-name": "铁矿石",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "生铁",
+    "item-name": "生铁",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "不锈钢304",
+    "item-name": "不锈钢304",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "废铁",
+    "item-name": "废铁",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#铬",
+    "item-name": "1#铬",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#电解镍",
+    "item-name": "1#电解镍",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "A00铝",
+    "item-name": "A00铝",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "6063铝合金",
+    "item-name": "6063铝合金",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#铜",
+    "item-name": "1#铜",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "0#锌",
+    "item-name": "0#锌",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "钕铁硼",
+    "item-name": "钕铁硼",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "钕",
+    "item-name": "钕",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "玻璃纤维",
+    "item-name": "玻璃纤维",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#锡",
+    "item-name": "1#锡",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#铅",
+    "item-name": "1#铅",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "磷酸亚铁锂",
+    "item-name": "磷酸亚铁锂",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#钴",
+    "item-name": "1#钴",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "1#电解锰",
+    "item-name": "1#电解锰",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "碳酸锂",
+    "item-name": "碳酸锂",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "六氟磷酸锂",
+    "item-name": "六氟磷酸锂",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "液化石油气",
+    "item-name": "液化石油气",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "92#汽油",
+    "item-name": "92#汽油",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "95#汽油",
+    "item-name": "95#汽油",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "98#汽油",
+    "item-name": "98#汽油",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "0#柴油",
+    "item-name": "0#柴油",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "石蜡",
+    "item-name": "石蜡",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "沥青",
+    "item-name": "沥青",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "伦敦brent原油",
+    "item-name": "伦敦brent原油",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "纽约WTI原油",
+    "item-name": "纽约WTI原油",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "天然气",
+    "item-name": "天然气",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "煤炭",
+    "item-name": "煤炭",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氧化钙",
+    "item-name": "氧化钙",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氧化铝",
+    "item-name": "氧化铝",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氧化钾",
+    "item-name": "氧化钾",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氧化钠",
+    "item-name": "氧化钠",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "石膏",
+    "item-name": "石膏",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "滑石",
+    "item-name": "滑石",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "石灰岩碎石",
+    "item-name": "石灰岩碎石",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "石灰岩粗砂",
+    "item-name": "石灰岩粗砂",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "石灰岩细砂",
+    "item-name": "石灰岩细砂",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "2#石英",
+    "item-name": "2#石英",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "硅酸锆",
+    "item-name": "硅酸锆",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氧化镁",
+    "item-name": "氧化镁",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "膨润土",
+    "item-name": "膨润土",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氢氧化铝",
+    "item-name": "氢氧化铝",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "铅酸铬",
+    "item-name": "铅酸铬",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "群青蓝",
+    "item-name": "群青蓝",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "钛白",
+    "item-name": "钛白",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "炭黑",
+    "item-name": "炭黑",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "石墨",
+    "item-name": "石墨",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氧化铁系颜料",
+    "item-name": "氧化铁系颜料",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "425水泥",
+    "item-name": "425水泥",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "腻子粉",
+    "item-name": "腻子粉",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "钠钙玻璃",
+    "item-name": "钠钙玻璃",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氯化钙",
+    "item-name": "氯化钙",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "硫磺",
+    "item-name": "硫磺",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "硝酸钾",
+    "item-name": "硝酸钾",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  }
+]

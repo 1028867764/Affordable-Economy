@@ -1,0 +1,4609 @@
+[
+  {
+    "item_id": "Mentha_椒样薄荷",
+    "item_name": "椒样薄荷",
+    "genus": "Mentha",
+    "genus_zh": "薄荷属",
+    "family_zh": "唇形科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Mentha_留兰香薄荷",
+    "item_name": "留兰香薄荷",
+    "genus": "Mentha",
+    "genus_zh": "薄荷属",
+    "family_zh": "唇形科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Agastache_藿香",
+    "item_name": "藿香",
+    "genus": "Agastache",
+    "genus_zh": "藿香属",
+    "family_zh": "唇形科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Platostoma_仙草",
+    "item_name": "仙草",
+    "genus": "Platostoma",
+    "genus_zh": "仙草属",
+    "family_zh": "唇形科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Perilla_紫苏",
+    "item_name": "紫苏",
+    "genus": "Perilla",
+    "genus_zh": "紫苏属",
+    "family_zh": "唇形科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Forsythia_连翘",
+    "item_name": "连翘",
+    "genus": "Forsythia",
+    "genus_zh": "连翘属",
+    "family_zh": "木樨科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Jasminum_茉莉花",
+    "item_name": "茉莉花",
+    "genus": "Jasminum",
+    "genus_zh": "素馨属",
+    "family_zh": "木樨科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Sesamum_芝麻粒",
+    "item_name": "芝麻粒",
+    "genus": "Sesamum",
+    "genus_zh": "素馨属",
+    "family_zh": "脂麻科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phaseolus_荷包豆",
+    "item_name": "荷包豆",
+    "genus": "Phaseolus",
+    "genus_zh": "菜豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phaseolus_四季豆",
+    "item_name": "四季豆",
+    "genus": "Phaseolus",
+    "genus_zh": "菜豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_毛豆",
+    "item_name": "毛豆",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_青大豆",
+    "item_name": "青大豆",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_黄大豆",
+    "item_name": "黄大豆",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_黑大豆",
+    "item_name": "黑大豆",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_豆浆",
+    "item_name": "豆浆",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_豆腐",
+    "item_name": "豆腐",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_豆腐泡",
+    "item_name": "豆腐泡",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_豆腐干",
+    "item_name": "豆腐干",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_腐竹",
+    "item_name": "腐竹",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_大豆油",
+    "item_name": "大豆油",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_酱油",
+    "item_name": "酱油",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_黑豆豉",
+    "item_name": "黑豆豉",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_黄豆酱",
+    "item_name": "黄豆酱",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_腐乳",
+    "item_name": "腐乳",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Glycine_豆粕",
+    "item_name": "豆粕",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Vigna_豇豆荚",
+    "item_name": "豇豆荚",
+    "genus": "Vigna",
+    "genus_zh": "豇豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Vigna_白豇豆",
+    "item_name": "白豇豆",
+    "genus": "Vigna",
+    "genus_zh": "豇豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Vigna_绿豆",
+    "item_name": "绿豆",
+    "genus": "Vigna",
+    "genus_zh": "豇豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Vigna_红豆",
+    "item_name": "红豆",
+    "genus": "Vigna",
+    "genus_zh": "豇豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Arachis_带壳花生",
+    "item_name": "带壳花生",
+    "genus": "Arachis",
+    "genus_zh": "落花生属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Arachis_花生仁",
+    "item_name": "花生仁",
+    "genus": "Arachis",
+    "genus_zh": "落花生属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Arachis_花生油",
+    "item_name": "花生油",
+    "genus": "Arachis",
+    "genus_zh": "落花生属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Arachis_花生粕",
+    "item_name": "花生粕",
+    "genus": "Arachis",
+    "genus_zh": "落花生属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pisum_豌豆荚",
+    "item_name": "豌豆荚",
+    "genus": "Pisum",
+    "genus_zh": "豌豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pisum_豌豆",
+    "item_name": "豌豆",
+    "genus": "Pisum",
+    "genus_zh": "豌豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pisum_豌豆藤",
+    "item_name": "豌豆藤",
+    "genus": "Pisum",
+    "genus_zh": "豌豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ananas_菠萝",
+    "item_name": "菠萝",
+    "genus": "Ananas",
+    "genus_zh": "凤梨属",
+    "family_zh": "凤梨科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_籼米",
+    "item_name": "籼米",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_粘米粉",
+    "item_name": "粘米粉",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_糯米",
+    "item_name": "糯米",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_糯米粉",
+    "item_name": "糯米粉",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_米糠",
+    "item_name": "米糠",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_米酒",
+    "item_name": "米酒",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_米醋",
+    "item_name": "米醋",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Oryza_稻秆",
+    "item_name": "稻秆",
+    "genus": "Oryza",
+    "genus_zh": "稻属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Saccharum_甘蔗",
+    "item_name": "甘蔗",
+    "genus": "Saccharum",
+    "genus_zh": "甘蔗属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Saccharum_一级白糖",
+    "item_name": "一级白糖",
+    "genus": "Saccharum",
+    "genus_zh": "甘蔗属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Saccharum_三氯蔗糖",
+    "item_name": "三氯蔗糖",
+    "genus": "Saccharum",
+    "genus_zh": "甘蔗属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Saccharum_蔗渣",
+    "item_name": "蔗渣",
+    "genus": "Saccharum",
+    "genus_zh": "甘蔗属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Triticum_高筋面粉",
+    "item_name": "高筋面粉",
+    "genus": "Triticum",
+    "genus_zh": "小麦属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Triticum_中筋面粉",
+    "item_name": "中筋面粉",
+    "genus": "Triticum",
+    "genus_zh": "小麦属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Triticum_低筋面粉",
+    "item_name": "低筋面粉",
+    "genus": "Triticum",
+    "genus_zh": "小麦属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Triticum_无筋面粉",
+    "item_name": "无筋面粉",
+    "genus": "Triticum",
+    "genus_zh": "小麦属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Triticum_麦麸",
+    "item_name": "麦麸",
+    "genus": "Triticum",
+    "genus_zh": "小麦属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Triticum_麦秆",
+    "item_name": "麦秆",
+    "genus": "Triticum",
+    "genus_zh": "小麦属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_饲料玉米棒",
+    "item_name": "饲料玉米棒",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_饲料玉米粒",
+    "item_name": "饲料玉米粒",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_水果玉米棒",
+    "item_name": "水果玉米棒",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_水果玉米粒",
+    "item_name": "水果玉米粒",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_糯玉米棒",
+    "item_name": "糯玉米棒",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_玉米淀粉",
+    "item_name": "玉米淀粉",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zea_玉米秆",
+    "item_name": "玉米秆",
+    "genus": "Zea",
+    "genus_zh": "玉米属",
+    "family_zh": "禾本科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Bambusoideae_竹笋",
+    "item_name": "竹笋",
+    "genus": "Bambusoideae",
+    "genus_zh": "竹亚科",
+    "family_zh": "竹亚科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Bambusoideae_竹浆",
+    "item_name": "竹浆",
+    "genus": "Bambusoideae",
+    "genus_zh": "竹亚科",
+    "family_zh": "竹亚科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Bambusoideae_竹木材",
+    "item_name": "竹木材",
+    "genus": "Bambusoideae",
+    "genus_zh": "竹亚科",
+    "family_zh": "竹亚科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Bambusoideae_竹叶",
+    "item_name": "竹叶",
+    "genus": "Bambusoideae",
+    "genus_zh": "竹亚科",
+    "family_zh": "竹亚科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Piper_黑胡椒",
+    "item_name": "黑胡椒",
+    "genus": "Piper",
+    "genus_zh": "胡椒属",
+    "family_zh": "",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Piper_白胡椒",
+    "item_name": "白胡椒",
+    "genus": "Piper",
+    "genus_zh": "胡椒属",
+    "family_zh": "",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Piper_假蒟叶",
+    "item_name": "假蒟叶",
+    "genus": "Piper",
+    "genus_zh": "胡椒属",
+    "family_zh": "",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Piper_荜茇",
+    "item_name": "荜茇",
+    "genus": "Piper",
+    "genus_zh": "胡椒属",
+    "family_zh": "",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Lycium_枸杞",
+    "item_name": "枸杞",
+    "genus": "Lycium",
+    "genus_zh": "枸杞属",
+    "family_zh": "茄科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Capsicum_辣椒",
+    "item_name": "辣椒",
+    "genus": "Capsicum",
+    "genus_zh": "辣椒属",
+    "family_zh": "茄科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Solanum_番茄",
+    "item_name": "番茄",
+    "genus": "Solanum",
+    "genus_zh": "茄属",
+    "family_zh": "茄科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Solanum_茄子",
+    "item_name": "茄子",
+    "genus": "Solanum",
+    "genus_zh": "茄属",
+    "family_zh": "茄科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Solanum_土豆",
+    "item_name": "土豆",
+    "genus": "Solanum",
+    "genus_zh": "茄属",
+    "family_zh": "茄科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ipomoea_红薯",
+    "item_name": "红薯",
+    "genus": "Ipomoea",
+    "genus_zh": "番薯属",
+    "family_zh": "旋花科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ipomoea_紫薯",
+    "item_name": "紫薯",
+    "genus": "Ipomoea",
+    "genus_zh": "番薯属",
+    "family_zh": "旋花科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ipomoea_红薯叶",
+    "item_name": "红薯叶",
+    "genus": "Ipomoea",
+    "genus_zh": "番薯属",
+    "family_zh": "旋花科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ipomoea_空心菜",
+    "item_name": "空心菜",
+    "genus": "Ipomoea",
+    "genus_zh": "番薯属",
+    "family_zh": "旋花科",
+    "category": "胡椒属和茄目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Illicium_八角",
+    "item_name": "八角",
+    "genus": "Illicium",
+    "genus_zh": "八角属",
+    "family_zh": "五味子科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Angelica_白芷",
+    "item_name": "白芷",
+    "genus": "Angelica",
+    "genus_zh": "当归属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Daucus_胡萝卜",
+    "item_name": "胡萝卜",
+    "genus": "Daucus",
+    "genus_zh": "胡萝卜属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Foeniculum_茴香叶",
+    "item_name": "茴香叶",
+    "genus": "Foeniculum",
+    "genus_zh": "茴香属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Foeniculum_茴香籽",
+    "item_name": "茴香籽",
+    "genus": "Foeniculum",
+    "genus_zh": "茴香属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Apium_细芹菜",
+    "item_name": "细芹菜",
+    "genus": "Apium",
+    "genus_zh": "芹属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Apium_粗芹菜",
+    "item_name": "粗芹菜",
+    "genus": "Apium",
+    "genus_zh": "芹属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Coriandrum_芫荽",
+    "item_name": "芫荽",
+    "genus": "Coriandrum",
+    "genus_zh": "芫荽属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Coriandrum_芫荽籽",
+    "item_name": "芫荽籽",
+    "genus": "Coriandrum",
+    "genus_zh": "芫荽属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cuminum_孜然籽",
+    "item_name": "孜然籽",
+    "genus": "Cuminum",
+    "genus_zh": "孜然芹属",
+    "family_zh": "伞形科",
+    "category": "八角属和伞形科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Benincasa_冬瓜",
+    "item_name": "冬瓜",
+    "genus": "Benincasa",
+    "genus_zh": "冬瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucumis_黄瓜",
+    "item_name": "黄瓜",
+    "genus": "Cucumis",
+    "genus_zh": "黄瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucumis_哈密瓜",
+    "item_name": "哈密瓜",
+    "genus": "Cucumis",
+    "genus_zh": "黄瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucumis_香瓜",
+    "item_name": "香瓜",
+    "genus": "Cucumis",
+    "genus_zh": "黄瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Siraitia_罗汉果",
+    "item_name": "罗汉果",
+    "genus": "Siraitia",
+    "genus_zh": "罗汉果属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucurbita_南瓜",
+    "item_name": "南瓜",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucurbita_南瓜籽",
+    "item_name": "南瓜籽",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucurbita_南瓜藤",
+    "item_name": "南瓜藤",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrullus_西瓜",
+    "item_name": "西瓜",
+    "genus": "Citrullus",
+    "genus_zh": "西瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrullus_西瓜籽",
+    "item_name": "西瓜籽",
+    "genus": "Citrullus",
+    "genus_zh": "西瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Musa_香蕉",
+    "item_name": "香蕉",
+    "genus": "Musa",
+    "genus_zh": "芭蕉属",
+    "family_zh": "芭蕉科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phrynium_柊叶",
+    "item_name": "柊叶",
+    "genus": "Phrynium",
+    "genus_zh": "柊叶属",
+    "family_zh": "竹芋科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Curcuma_姜黄",
+    "item_name": "姜黄",
+    "genus": "Curcuma",
+    "genus_zh": "姜黄属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zingiber_生姜",
+    "item_name": "生姜",
+    "genus": "Zingiber",
+    "genus_zh": "姜属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Kaempferia_沙姜",
+    "item_name": "沙姜",
+    "genus": "Kaempferia",
+    "genus_zh": "山柰属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Alpinia_高良姜",
+    "item_name": "高良姜",
+    "genus": "Alpinia",
+    "genus_zh": "山姜属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Wurfbainia_爪哇白豆蔻",
+    "item_name": "爪哇白豆蔻",
+    "genus": "Wurfbainia",
+    "genus_zh": "砂仁属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Wurfbainia_阳春砂",
+    "item_name": "阳春砂",
+    "genus": "Wurfbainia",
+    "genus_zh": "砂仁属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "lanxangia_草果",
+    "item_name": "草果",
+    "genus": "lanxangia",
+    "genus_zh": "草果属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Myristica_肉豆蔻",
+    "item_name": "肉豆蔻",
+    "genus": "Myristica",
+    "genus_zh": "肉豆蔻属",
+    "family_zh": "肉豆蔻科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Blumea_冰片",
+    "item_name": "冰片",
+    "genus": "Blumea",
+    "genus_zh": "艾纳香属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ixeris_苦麦菜",
+    "item_name": "苦麦菜",
+    "genus": "Ixeris",
+    "genus_zh": "",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Taraxacum_蒲公英",
+    "item_name": "蒲公英",
+    "genus": "Taraxacum",
+    "genus_zh": "蒲公英属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Lactuca_生菜",
+    "item_name": "生菜",
+    "genus": "Lactuca",
+    "genus_zh": "莴苣属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Lactuca_油麦菜",
+    "item_name": "油麦菜",
+    "genus": "Lactuca",
+    "genus_zh": "莴苣属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Lactuca_莴笋",
+    "item_name": "莴笋",
+    "genus": "Lactuca",
+    "genus_zh": "莴苣属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Helianthus_葵花籽",
+    "item_name": "葵花籽",
+    "genus": "Helianthus",
+    "genus_zh": "向日葵属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Juglans_核桃",
+    "item_name": "核桃",
+    "genus": "Juglans",
+    "genus_zh": "胡桃属",
+    "family_zh": "胡桃科",
+    "category": "壳斗目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Engelhardtia_大叶茶",
+    "item_name": "大叶茶",
+    "genus": "Engelhardtia",
+    "genus_zh": "黄杞属",
+    "family_zh": "胡桃科",
+    "category": "壳斗目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Castanea_板栗",
+    "item_name": "板栗",
+    "genus": "Castanea",
+    "genus_zh": "栗属",
+    "family_zh": "壳斗科",
+    "category": "壳斗目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Fragaria_草莓",
+    "item_name": "草莓",
+    "genus": "Fragaria",
+    "genus_zh": "草莓属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pyrus_梨子",
+    "item_name": "梨子",
+    "genus": "Pyrus",
+    "genus_zh": "梨属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Prunus_扁桃仁",
+    "item_name": "扁桃仁",
+    "genus": "Prunus",
+    "genus_zh": "李属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Prunus_桃子",
+    "item_name": "桃子",
+    "genus": "Prunus",
+    "genus_zh": "李属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Prunus_李子",
+    "item_name": "李子",
+    "genus": "Prunus",
+    "genus_zh": "李属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Prunus_梅子",
+    "item_name": "梅子",
+    "genus": "Prunus",
+    "genus_zh": "李属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Eriobotrya_枇杷",
+    "item_name": "枇杷",
+    "genus": "Eriobotrya",
+    "genus_zh": "枇杷属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Eriobotrya_枇杷叶",
+    "item_name": "枇杷叶",
+    "genus": "Eriobotrya",
+    "genus_zh": "枇杷属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Malus_苹果",
+    "item_name": "苹果",
+    "genus": "Malus",
+    "genus_zh": "苹果属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Rosa_礼物玫瑰",
+    "item_name": "礼物玫瑰",
+    "genus": "Rosa",
+    "genus_zh": "蔷薇属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Rosa_突厥蔷薇",
+    "item_name": "突厥蔷薇",
+    "genus": "Rosa",
+    "genus_zh": "蔷薇属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Crataegus_山楂",
+    "item_name": "山楂",
+    "genus": "Crataegus",
+    "genus_zh": "山楂属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cinnamomum_肉桂",
+    "item_name": "肉桂",
+    "genus": "Cinnamomum",
+    "genus_zh": "肉桂属",
+    "family_zh": "樟科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Laurus_月桂叶",
+    "item_name": "月桂叶",
+    "genus": "Laurus",
+    "genus_zh": "月桂属",
+    "family_zh": "樟科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Camphora_樟树木材",
+    "item_name": "樟树木材",
+    "genus": "Camphora",
+    "genus_zh": "樟属",
+    "family_zh": "樟科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Eucalyptus_桉树木材",
+    "item_name": "桉树木材",
+    "genus": "Eucalyptus",
+    "genus_zh": "桉属",
+    "family_zh": "桃金娘科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Eucalyptus_胶合板",
+    "item_name": "胶合板",
+    "genus": "Eucalyptus",
+    "genus_zh": "桉属",
+    "family_zh": "桃金娘科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Eucalyptus_刨花板",
+    "item_name": "刨花板",
+    "genus": "Eucalyptus",
+    "genus_zh": "桉属",
+    "family_zh": "桃金娘科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Eucalyptus_纤维板",
+    "item_name": "纤维板",
+    "genus": "Eucalyptus",
+    "genus_zh": "桉属",
+    "family_zh": "桃金娘科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Syzygium_公丁香",
+    "item_name": "公丁香",
+    "genus": "Syzygium",
+    "genus_zh": "蒲桃属",
+    "family_zh": "桃金娘科",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cunninghamia_杉木材",
+    "item_name": "杉木材",
+    "genus": "Cunninghamia",
+    "genus_zh": "杉属",
+    "family_zh": "",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pinus_马尾松木材",
+    "item_name": "马尾松木材",
+    "genus": "Pinus",
+    "genus_zh": "松属",
+    "family_zh": "",
+    "category": "樟科、桃金娘科和松柏目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Raphanus_萝卜",
+    "item_name": "萝卜",
+    "genus": "Raphanus",
+    "genus_zh": "萝卜属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Isatis_大青叶",
+    "item_name": "大青叶",
+    "genus": "Isatis",
+    "genus_zh": "菘蓝属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Isatis_板蓝根",
+    "item_name": "板蓝根",
+    "genus": "Isatis",
+    "genus_zh": "菘蓝属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Nasturtium_豆瓣菜",
+    "item_name": "豆瓣菜",
+    "genus": "Nasturtium",
+    "genus_zh": "豆瓣菜属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_juncea_茎瘤芥菜",
+    "item_name": "茎瘤芥菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "juncea",
+    "species_zh": "芥菜",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_juncea_大头菜",
+    "item_name": "大头菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "juncea",
+    "species_zh": "芥菜",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_juncea_雪里蕻",
+    "item_name": "雪里蕻",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "juncea",
+    "species_zh": "芥菜",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_juncea_包心芥菜",
+    "item_name": "包心芥菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "juncea",
+    "species_zh": "芥菜",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_juncea_其它芥菜",
+    "item_name": "其它芥菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "juncea",
+    "species_zh": "芥菜",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_oleracea_西兰花",
+    "item_name": "西兰花",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "oleracea",
+    "species_zh": "甘蓝",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_oleracea_花椰菜",
+    "item_name": "花椰菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "oleracea",
+    "species_zh": "甘蓝",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_oleracea_卷心菜",
+    "item_name": "卷心菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "oleracea",
+    "species_zh": "甘蓝",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_oleracea_其它甘蓝",
+    "item_name": "其它甘蓝",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "oleracea",
+    "species_zh": "甘蓝",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_rapa_大白菜",
+    "item_name": "大白菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "rapa",
+    "species_zh": "芸薹",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_rapa_娃娃菜",
+    "item_name": "娃娃菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "rapa",
+    "species_zh": "芸薹",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_rapa_菜心",
+    "item_name": "菜心",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "rapa",
+    "species_zh": "芸薹",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_rapa_奶油白菜",
+    "item_name": "奶油白菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "rapa",
+    "species_zh": "芸薹",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Brassica_rapa_其它白菜",
+    "item_name": "其它白菜",
+    "genus": "Brassica",
+    "genus_zh": "芸薹属",
+    "family_zh": "十字花科",
+    "category": "十字花科",
+    "species": "rapa",
+    "species_zh": "芸薹",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_葱",
+    "item_name": "葱",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_韭菜",
+    "item_name": "韭菜",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_蒜瓣",
+    "item_name": "蒜瓣",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_蒜苗",
+    "item_name": "蒜苗",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_薤",
+    "item_name": "薤",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_洋葱",
+    "item_name": "洋葱",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Allium_红葱头",
+    "item_name": "红葱头",
+    "genus": "Allium",
+    "genus_zh": "葱花属",
+    "family_zh": "石蒜科",
+    "category": "石蒜科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Mangifera_芒果",
+    "item_name": "芒果",
+    "genus": "Mangifera",
+    "genus_zh": "芒果属",
+    "family_zh": "漆树科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anacardium_腰果仁",
+    "item_name": "腰果仁",
+    "genus": "Anacardium",
+    "genus_zh": "腰果属",
+    "family_zh": "漆树科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Litchi_荔枝",
+    "item_name": "荔枝",
+    "genus": "Litchi",
+    "genus_zh": "荔枝属",
+    "family_zh": "无患子科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Dimocarpus_龙眼",
+    "item_name": "龙眼",
+    "genus": "Dimocarpus",
+    "genus_zh": "龙眼属",
+    "family_zh": "无患子科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Clausena_黄皮果",
+    "item_name": "黄皮果",
+    "genus": "Clausena",
+    "genus_zh": "黄皮属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Zanthoxylum_花椒",
+    "item_name": "花椒",
+    "genus": "Zanthoxylum",
+    "genus_zh": "花椒属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrus_柚",
+    "item_name": "柚",
+    "genus": "Citrus",
+    "genus_zh": "柑橘属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrus_橘",
+    "item_name": "橘",
+    "genus": "Citrus",
+    "genus_zh": "柑橘属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrus_橙",
+    "item_name": "橙",
+    "genus": "Citrus",
+    "genus_zh": "柑橘属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrus_柑",
+    "item_name": "柑",
+    "genus": "Citrus",
+    "genus_zh": "柑橘属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrus_柠檬",
+    "item_name": "柠檬",
+    "genus": "Citrus",
+    "genus_zh": "柑橘属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Citrus_橘皮",
+    "item_name": "橘皮",
+    "genus": "Citrus",
+    "genus_zh": "柑橘属",
+    "family_zh": "芸香科",
+    "category": "无患子目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cocos_椰子油",
+    "item_name": "椰子油",
+    "genus": "Cocos",
+    "genus_zh": "椰属",
+    "family_zh": "棕榈科",
+    "category": "棕榈科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Elaeis_棕榈油",
+    "item_name": "棕榈油",
+    "genus": "Elaeis",
+    "genus_zh": "油棕属",
+    "family_zh": "棕榈科",
+    "category": "棕榈科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Elaeis_棕榈仁油",
+    "item_name": "棕榈仁油",
+    "genus": "Elaeis",
+    "genus_zh": "油棕属",
+    "family_zh": "棕榈科",
+    "category": "棕榈科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Gossypium_棉花",
+    "item_name": "棉花",
+    "genus": "Gossypium",
+    "genus_zh": "棉花属",
+    "family_zh": "锦葵科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Gossypium_棉纱",
+    "item_name": "棉纱",
+    "genus": "Gossypium",
+    "genus_zh": "棉花属",
+    "family_zh": "锦葵科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Nelumbo_莲藕",
+    "item_name": "莲藕",
+    "genus": "Nelumbo",
+    "genus_zh": "莲属",
+    "family_zh": "莲科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Lonicera_忍冬花",
+    "item_name": "忍冬花",
+    "genus": "Lonicera",
+    "genus_zh": "忍冬属",
+    "family_zh": "忍冬科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Camellia_茶叶",
+    "item_name": "茶叶",
+    "genus": "Camellia",
+    "genus_zh": "山茶属",
+    "family_zh": "山茶科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Gardenia_栀子",
+    "item_name": "栀子",
+    "genus": "Gardenia",
+    "genus_zh": "栀子属",
+    "family_zh": "茜草科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Vitis_葡萄",
+    "item_name": "葡萄",
+    "genus": "Vitis",
+    "genus_zh": "葡萄属",
+    "family_zh": "葡萄科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Dioscorea_薯蓣",
+    "item_name": "薯蓣",
+    "genus": "Dioscorea",
+    "genus_zh": "薯蓣属",
+    "family_zh": "薯蓣科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Selenicereus_火龙果",
+    "item_name": "火龙果",
+    "genus": "Selenicereus",
+    "genus_zh": "蛇鞭柱属",
+    "family_zh": "仙人掌科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Spinacia_菠菜",
+    "item_name": "菠菜",
+    "genus": "Spinacia",
+    "genus_zh": "菠菜属",
+    "family_zh": "苋科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Colocasia_芋头",
+    "item_name": "芋头",
+    "genus": "Colocasia",
+    "genus_zh": "芋属",
+    "family_zh": "天南星科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Colocasia_芋叶柄",
+    "item_name": "芋叶柄",
+    "genus": "Colocasia",
+    "genus_zh": "芋属",
+    "family_zh": "天南星科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Manihot_木薯淀粉",
+    "item_name": "木薯淀粉",
+    "genus": "Manihot",
+    "genus_zh": "木薯属",
+    "family_zh": "大戟科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Excentrodendron_蚬木材",
+    "item_name": "蚬木材",
+    "genus": "Excentrodendron",
+    "genus_zh": "蚬木属",
+    "family_zh": "椴树科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_活鸡",
+    "item_name": "活鸡",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_白条鸡",
+    "item_name": "白条鸡",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡胸肉",
+    "item_name": "鸡胸肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡腿",
+    "item_name": "鸡腿",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡翅",
+    "item_name": "鸡翅",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡翅尖",
+    "item_name": "鸡翅尖",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡爪",
+    "item_name": "鸡爪",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡肠",
+    "item_name": "鸡肠",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡胗",
+    "item_name": "鸡胗",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡心",
+    "item_name": "鸡心",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡肝",
+    "item_name": "鸡肝",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡皮",
+    "item_name": "鸡皮",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡蛋",
+    "item_name": "鸡蛋",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Phasianidae_鸡毛",
+    "item_name": "鸡毛",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "雉科",
+    "category": "雉科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_活鸭",
+    "item_name": "活鸭",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_白条鸭",
+    "item_name": "白条鸭",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭翅",
+    "item_name": "鸭翅",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭腿",
+    "item_name": "鸭腿",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭掌",
+    "item_name": "鸭掌",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭肠",
+    "item_name": "鸭肠",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭胗",
+    "item_name": "鸭胗",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭舌",
+    "item_name": "鸭舌",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭脖",
+    "item_name": "鸭脖",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭心",
+    "item_name": "鸭心",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭肝",
+    "item_name": "鸭肝",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭蛋",
+    "item_name": "鸭蛋",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_皮蛋",
+    "item_name": "皮蛋",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Anatidae_鸭毛",
+    "item_name": "鸭毛",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "鸭科",
+    "category": "鸭科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_生猪",
+    "item_name": "生猪",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_白条猪",
+    "item_name": "白条猪",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪皮",
+    "item_name": "猪皮",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪板油",
+    "item_name": "猪板油",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_肥膘肉",
+    "item_name": "肥膘肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪面颊",
+    "item_name": "猪面颊",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪下巴",
+    "item_name": "猪下巴",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪颈肉",
+    "item_name": "猪颈肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪舌头",
+    "item_name": "猪舌头",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪耳",
+    "item_name": "猪耳",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪脑",
+    "item_name": "猪脑",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪脊骨",
+    "item_name": "猪脊骨",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪肋排骨",
+    "item_name": "猪肋排骨",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪外脊肉",
+    "item_name": "猪外脊肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_tenderloin",
+    "item_name": "猪里脊肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_belly_loin",
+    "item_name": "五花肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_shoulder_blade",
+    "item_name": "猪肩胛肉",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_shoulder_arm",
+    "item_name": "猪前大腿",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_leg_ham",
+    "item_name": "猪后大腿",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪大腿骨",
+    "item_name": "猪大腿骨",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_front_hock",
+    "item_name": "猪前肘",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_leg_hock",
+    "item_name": "猪后肘",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_front_trotter",
+    "item_name": "猪前蹄",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_hind_trotter",
+    "item_name": "猪后蹄",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪尾巴",
+    "item_name": "猪尾巴",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪腰子",
+    "item_name": "猪腰子",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪心",
+    "item_name": "猪心",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪肝",
+    "item_name": "猪肝",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪肺",
+    "item_name": "猪肺",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪小肠",
+    "item_name": "猪小肠",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪大肠",
+    "item_name": "猪大肠",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Suidae_猪肚",
+    "item_name": "猪肚",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "猪科",
+    "category": "猪科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Tenebrio_黄粉虫",
+    "item_name": "黄粉虫",
+    "genus": "Tenebrio",
+    "genus_zh": "粉甲虫属",
+    "family_zh": "",
+    "category": "其它动物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Litopenaeus_中南美白对虾",
+    "item_name": "中南美白对虾",
+    "genus": "Litopenaeus",
+    "genus_zh": "滨对虾属",
+    "family_zh": "",
+    "category": "其它动物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Viviparidae_田螺",
+    "item_name": "田螺",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "田螺科",
+    "category": "其它动物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "米曲霉菌",
+    "item_name": "米曲霉菌",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "酿酒酵母",
+    "item_name": "酿酒酵母",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "醋酸菌",
+    "item_name": "醋酸菌",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "毛霉菌",
+    "item_name": "毛霉菌",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "乳杆菌",
+    "item_name": "乳杆菌",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "谷氨酸钠",
+    "item_name": "谷氨酸钠",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "IMP",
+    "item_name": "IMP",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "GMP",
+    "item_name": "GMP",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "黑木耳",
+    "item_name": "黑木耳",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "金针菇",
+    "item_name": "金针菇",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "双孢蘑菇",
+    "item_name": "双孢蘑菇",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "草菇",
+    "item_name": "草菇",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "虫草花",
+    "item_name": "虫草花",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  }
+]

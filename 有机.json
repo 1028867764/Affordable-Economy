@@ -1,0 +1,886 @@
+[
+  {
+    "item-id": "异戊二烯",
+    "item-name": "异戊二烯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "苯乙烯",
+    "item-name": "苯乙烯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "丁二烯",
+    "item-name": "丁二烯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "异戊橡胶",
+    "item-name": "异戊橡胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "丁苯橡胶",
+    "item-name": "丁苯橡胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "顺丁橡胶",
+    "item-name": "顺丁橡胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "SBS橡胶",
+    "item-name": "SBS橡胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "丁腈橡胶",
+    "item-name": "丁腈橡胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "20号胶",
+    "item-name": "20号胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PE树脂",
+    "item-name": "PE树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PP树脂",
+    "item-name": "PP树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PVC树脂",
+    "item-name": "PVC树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PS树脂",
+    "item-name": "PS树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PC树脂",
+    "item-name": "PC树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "聚四氟乙烯",
+    "item-name": "聚四氟乙烯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "ABS树脂",
+    "item-name": "ABS树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "丙烯腈",
+    "item-name": "丙烯腈",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PMMA树脂",
+    "item-name": "PMMA树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "EVA树脂",
+    "item-name": "EVA树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "尼龙66",
+    "item-name": "尼龙66",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "己二胺",
+    "item-name": "己二胺",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "己二酸",
+    "item-name": "己二酸",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "尼龙6",
+    "item-name": "尼龙6",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "己内酰胺",
+    "item-name": "己内酰胺",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PET",
+    "item-name": "PET",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PBT",
+    "item-name": "PBT",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "TDI",
+    "item-name": "TDI",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "MDI",
+    "item-name": "MDI",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "聚四氢呋喃",
+    "item-name": "聚四氢呋喃",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "聚丙烯腈",
+    "item-name": "聚丙烯腈",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "甲醛",
+    "item-name": "甲醛",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "苯酚",
+    "item-name": "苯酚",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "尿素",
+    "item-name": "尿素",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "三聚氰胺",
+    "item-name": "三聚氰胺",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PF树脂",
+    "item-name": "酚醛树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "UF树脂",
+    "item-name": "脲醛树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "MF树脂",
+    "item-name": "密胺树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "epoxy_resin",
+    "item-name": "环氧树脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "DETA",
+    "item-name": "二乙烯三胺",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "HPMC",
+    "item-name": "羟丙基甲基纤维素",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "CMC-Na",
+    "item-name": "羧甲基纤维素钠",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "甲基苯酚",
+    "item-name": "甲基苯酚",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "PVAc",
+    "item-name": "白乳胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "α-氰基丙烯酸乙酯",
+    "item-name": "502胶水",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氯丁胶",
+    "item-name": "氯丁胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "2-氯-1,3-丁二烯",
+    "item-name": "2-氯-1,3-丁二烯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "甲苯",
+    "item-name": "甲苯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氯苯",
+    "item-name": "氯苯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氨",
+    "item-name": "氨",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氟利昂_12",
+    "item-name": "氟利昂_12",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氟利昂_22",
+    "item-name": "氟利昂_22",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氟利昂_134a",
+    "item-name": "氟利昂_134a",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "单硬脂酸甘油酯",
+    "item-name": "单硬脂酸甘油酯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "蔗糖脂肪酸酯",
+    "item-name": "蔗糖脂肪酸酯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "硬脂酰乳酸钠",
+    "item-name": "硬脂酰乳酸钠",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "lecithin",
+    "item-name": "卵磷脂",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "植脂末",
+    "item-name": "植脂末",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "酪蛋白",
+    "item-name": "酪蛋白",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "赖氨酸",
+    "item-name": "赖氨酸",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "葡萄糖酸-δ-内酯",
+    "item-name": "葡萄糖酸-δ-内酯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氟氯醚菊酯",
+    "item-name": "氟氯醚菊酯",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "木粉",
+    "item-name": "木粉",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "原木纸浆",
+    "item-name": "原木纸浆",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "废纸浆",
+    "item-name": "废纸浆",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "indigo",
+    "item-name": "靛蓝",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "保险粉",
+    "item-name": "保险粉",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "高锰酸钾",
+    "item-name": "高锰酸钾",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "草酸",
+    "item-name": "草酸",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "remark": "",
+    "dry_or_not": "",
+    "first_hand_price": {
+      "number": "",
+      "unit": ""
+    },
+    "second_hand_price": {
+      "number": "",
+      "unit": ""
+    },
+    "when": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "hour_24": ""
+    },
+    "where": {
+      "country": "",
+      "province": "",
+      "city": ""
+    },
+    "report": {
+      "text": "",
+      "unitime_millisecond": ""
+    }
+  }
+]
