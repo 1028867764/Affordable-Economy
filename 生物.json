@@ -17,23 +17,6 @@
     "comment": ""
   },
   {
-    "item_id": "Mentha_留兰香薄荷",
-    "item_name": "留兰香薄荷",
-    "genus": "Mentha",
-    "genus_zh": "薄荷属",
-    "family_zh": "唇形科",
-    "category": "唇形目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Agastache_藿香",
     "item_name": "藿香",
     "genus": "Agastache",
