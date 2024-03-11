@@ -2652,23 +2652,6 @@
     "comment": ""
   },
   {
-    "item_id": "Brassica_rapa_奶油白菜",
-    "item_name": "奶油白菜",
-    "genus": "Brassica",
-    "genus_zh": "芸薹属",
-    "family_zh": "十字花科",
-    "category": "十字花科",
-    "species": "rapa",
-    "species_zh": "芸薹",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Brassica_rapa_其它白菜",
     "item_name": "其它白菜",
     "genus": "Brassica",
