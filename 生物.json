@@ -4556,6 +4556,23 @@
     "comment": ""
   },
   {
+    "item_id": "香菇",
+    "item_name": "香菇",
+    "genus": "",
+    "genus_zh": "",
+    "family_zh": "",
+    "category": "菌类与味精",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "虫草花",
     "item_name": "虫草花",
     "genus": "",
