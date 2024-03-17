@@ -182,6 +182,19 @@
     "comment": ""
   },
   {
+    "item-id": "Biphenol_A",
+    "item-name": "双酚A",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item-id": "聚四氟乙烯",
     "item-name": "聚四氟乙烯",
     "category": "有机材料",
@@ -481,8 +494,8 @@
     "comment": ""
   },
   {
-    "item-id": "epoxy_resin",
-    "item-name": "环氧树脂",
+    "item-id": "双酚A型环氧树脂",
+    "item-name": "双酚A型环氧树脂",
     "category": "有机材料",
     "note": "",
     "brief": "",
