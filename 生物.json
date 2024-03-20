@@ -595,6 +595,23 @@
     "comment": ""
   },
   {
+    "item_id": "Glycyrrhiza_甘草",
+    "item_name": "甘草",
+    "genus": "Glycyrrhiza",
+    "genus_zh": "甘草属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Ananas_菠萝",
     "item_name": "菠萝",
     "genus": "Ananas",
