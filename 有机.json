@@ -234,8 +234,8 @@
     "comment": ""
   },
   {
-    "item-id": "PMMA树脂",
-    "item-name": "PMMA树脂",
+    "item-id": "PMMA",
+    "item-name": "PMMA",
     "category": "有机材料",
     "note": "",
     "brief": "",
@@ -832,8 +832,21 @@
     "comment": ""
   },
   {
-    "item-id": "原木纸浆",
-    "item-name": "原木纸浆",
+    "item-id": "漂白硫酸盐针叶木浆",
+    "item-name": "漂白硫酸盐针叶木浆",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "漂白硫酸盐阔叶木浆",
+    "item-name": "漂白硫酸盐阔叶木浆",
     "category": "有机材料",
     "note": "",
     "brief": "",
