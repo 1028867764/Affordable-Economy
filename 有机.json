@@ -806,6 +806,19 @@
     "comment": ""
   },
   {
+    "item-id": "卡拉胶",
+    "item-name": "卡拉胶",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item-id": "氟氯醚菊酯",
     "item-name": "氟氯醚菊酯",
     "category": "有机材料",
@@ -858,8 +871,21 @@
     "comment": ""
   },
   {
-    "item-id": "废纸浆",
-    "item-name": "废纸浆",
+    "item-id": "五层AB瓦楞纸",
+    "item-name": "五层AB瓦楞纸",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "五层BE瓦楞纸",
+    "item-name": "五层BE瓦楞纸",
     "category": "有机材料",
     "note": "",
     "brief": "",
