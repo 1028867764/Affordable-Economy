@@ -68,23 +68,6 @@
     "comment": ""
   },
   {
-    "item_id": "Forsythia_连翘",
-    "item_name": "连翘",
-    "genus": "Forsythia",
-    "genus_zh": "连翘属",
-    "family_zh": "木樨科",
-    "category": "唇形目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Jasminum_茉莉花",
     "item_name": "茉莉花",
     "genus": "Jasminum",
@@ -1190,23 +1173,6 @@
     "comment": ""
   },
   {
-    "item_id": "Lycium_枸杞",
-    "item_name": "枸杞",
-    "genus": "Lycium",
-    "genus_zh": "枸杞属",
-    "family_zh": "茄科",
-    "category": "胡椒属和茄目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Capsicum_辣椒",
     "item_name": "辣椒",
     "genus": "Capsicum",
@@ -1394,23 +1360,6 @@
     "comment": ""
   },
   {
-    "item_id": "Foeniculum_茴香叶",
-    "item_name": "茴香叶",
-    "genus": "Foeniculum",
-    "genus_zh": "茴香属",
-    "family_zh": "伞形科",
-    "category": "八角属和伞形科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Foeniculum_茴香籽",
     "item_name": "茴香籽",
     "genus": "Foeniculum",
@@ -1513,23 +1462,6 @@
     "comment": ""
   },
   {
-    "item_id": "Benincasa_冬瓜",
-    "item_name": "冬瓜",
-    "genus": "Benincasa",
-    "genus_zh": "冬瓜属",
-    "family_zh": "葫芦科",
-    "category": "葫芦科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Cucumis_黄瓜",
     "item_name": "黄瓜",
     "genus": "Cucumis",
@@ -1585,57 +1517,6 @@
     "item_name": "罗汉果",
     "genus": "Siraitia",
     "genus_zh": "罗汉果属",
-    "family_zh": "葫芦科",
-    "category": "葫芦科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Cucurbita_南瓜",
-    "item_name": "南瓜",
-    "genus": "Cucurbita",
-    "genus_zh": "南瓜属",
-    "family_zh": "葫芦科",
-    "category": "葫芦科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Cucurbita_南瓜籽",
-    "item_name": "南瓜籽",
-    "genus": "Cucurbita",
-    "genus_zh": "南瓜属",
-    "family_zh": "葫芦科",
-    "category": "葫芦科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Cucurbita_南瓜藤",
-    "item_name": "南瓜藤",
-    "genus": "Cucurbita",
-    "genus_zh": "南瓜属",
     "family_zh": "葫芦科",
     "category": "葫芦科",
     "species": "",
@@ -1857,23 +1738,6 @@
     "item_name": "冰片",
     "genus": "Blumea",
     "genus_zh": "艾纳香属",
-    "family_zh": "菊科",
-    "category": "菊科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Ixeris_苦麦菜",
-    "item_name": "苦麦菜",
-    "genus": "Ixeris",
-    "genus_zh": "",
     "family_zh": "菊科",
     "category": "菊科",
     "species": "",
@@ -2280,57 +2144,6 @@
   {
     "item_id": "Eucalyptus_桉树木材",
     "item_name": "桉树木材",
-    "genus": "Eucalyptus",
-    "genus_zh": "桉属",
-    "family_zh": "桃金娘科",
-    "category": "樟科、桃金娘科和松柏目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Eucalyptus_胶合板",
-    "item_name": "胶合板",
-    "genus": "Eucalyptus",
-    "genus_zh": "桉属",
-    "family_zh": "桃金娘科",
-    "category": "樟科、桃金娘科和松柏目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Eucalyptus_刨花板",
-    "item_name": "刨花板",
-    "genus": "Eucalyptus",
-    "genus_zh": "桉属",
-    "family_zh": "桃金娘科",
-    "category": "樟科、桃金娘科和松柏目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Eucalyptus_纤维板",
-    "item_name": "纤维板",
     "genus": "Eucalyptus",
     "genus_zh": "桉属",
     "family_zh": "桃金娘科",
@@ -3145,6 +2958,23 @@
     "comment": ""
   },
   {
+    "item_id": "Camellia_红茶粉",
+    "item_name": "红茶粉",
+    "genus": "Camellia",
+    "genus_zh": "山茶属",
+    "family_zh": "山茶科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Gardenia_栀子",
     "item_name": "栀子",
     "genus": "Gardenia",
@@ -3179,11 +3009,11 @@
     "comment": ""
   },
   {
-    "item_id": "Dioscorea_薯蓣",
-    "item_name": "薯蓣",
-    "genus": "Dioscorea",
-    "genus_zh": "薯蓣属",
-    "family_zh": "薯蓣科",
+    "item_id": "Vitis_葡萄干",
+    "item_name": "葡萄干",
+    "genus": "Vitis",
+    "genus_zh": "葡萄属",
+    "family_zh": "葡萄科",
     "category": "其它植物",
     "species": "",
     "species_zh": "",
@@ -3230,62 +3060,11 @@
     "comment": ""
   },
   {
-    "item_id": "Colocasia_芋头",
-    "item_name": "芋头",
-    "genus": "Colocasia",
-    "genus_zh": "芋属",
-    "family_zh": "天南星科",
-    "category": "其它植物",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Colocasia_芋叶柄",
-    "item_name": "芋叶柄",
-    "genus": "Colocasia",
-    "genus_zh": "芋属",
-    "family_zh": "天南星科",
-    "category": "其它植物",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Manihot_木薯淀粉",
     "item_name": "木薯淀粉",
     "genus": "Manihot",
     "genus_zh": "木薯属",
     "family_zh": "大戟科",
-    "category": "其它植物",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Excentrodendron_蚬木材",
-    "item_name": "蚬木材",
-    "genus": "Excentrodendron",
-    "genus_zh": "蚬木属",
-    "family_zh": "椴树科",
     "category": "其它植物",
     "species": "",
     "species_zh": "",
