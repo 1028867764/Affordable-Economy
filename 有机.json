@@ -754,8 +754,8 @@
     "comment": ""
   },
   {
-    "item-id": "植脂末",
-    "item-name": "植脂末",
+    "item-id": "植脂末T90",
+    "item-name": "植脂末T90",
     "category": "有机材料",
     "note": "",
     "brief": "",
@@ -834,6 +834,45 @@
   {
     "item-id": "木粉",
     "item-name": "木粉",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "胶合板",
+    "item-name": "胶合板",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "刨花板",
+    "item-name": "刨花板",
+    "category": "有机材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "纤维板",
+    "item-name": "纤维板",
     "category": "有机材料",
     "note": "",
     "brief": "",
