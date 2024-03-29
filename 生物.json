@@ -1734,23 +1734,6 @@
     "comment": ""
   },
   {
-    "item_id": "Blumea_冰片",
-    "item_name": "冰片",
-    "genus": "Blumea",
-    "genus_zh": "艾纳香属",
-    "family_zh": "菊科",
-    "category": "菊科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Taraxacum_蒲公英",
     "item_name": "蒲公英",
     "genus": "Taraxacum",
