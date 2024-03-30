@@ -3060,6 +3060,40 @@
     "comment": ""
   },
   {
+    "item_id": "Colocasia_芋头",
+    "item_name": "芋头",
+    "genus": "Colocasia",
+    "genus_zh": "芋属",
+    "family_zh": "天南星科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Colocasia_芋叶柄",
+    "item_name": "芋叶柄",
+    "genus": "Colocasia",
+    "genus_zh": "芋属",
+    "family_zh": "天南星科",
+    "category": "其它植物",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Phasianidae_活鸡",
     "item_name": "活鸡",
     "genus": "",
