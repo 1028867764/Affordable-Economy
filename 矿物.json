@@ -1,57 +1,5 @@
 [
   {
-    "item-id": "铈",
-    "item-name": "铈",
-    "category": "矿物材料",
-    "note": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item-id": "YAG",
-    "item-name": "钇铝石榴石",
-    "category": "矿物材料",
-    "note": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item-id": "镓",
-    "item-name": "镓",
-    "category": "矿物材料",
-    "note": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item-id": "铟",
-    "item-name": "铟",
-    "category": "矿物材料",
-    "note": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item-id": "铁矿石",
     "item-name": "铁矿石",
     "category": "矿物材料",
@@ -650,8 +598,8 @@
     "comment": ""
   },
   {
-    "item-id": "钛白",
-    "item-name": "钛白",
+    "item-id": "金红石型钛白粉",
+    "item-name": "金红石型钛白粉",
     "category": "矿物材料",
     "note": "",
     "brief": "",
