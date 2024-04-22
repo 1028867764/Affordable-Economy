@@ -1105,6 +1105,23 @@
     "comment": ""
   },
   {
+    "item_id": "Bambusoideae_竹篾",
+    "item_name": "竹篾",
+    "genus": "Bambusoideae",
+    "genus_zh": "竹亚科",
+    "family_zh": "竹亚科",
+    "category": "禾本目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Piper_黑胡椒",
     "item_name": "黑胡椒",
     "genus": "Piper",
@@ -1651,6 +1668,23 @@
   {
     "item_id": "Alpinia_高良姜",
     "item_name": "高良姜",
+    "genus": "Alpinia",
+    "genus_zh": "山姜属",
+    "family_zh": "姜科",
+    "category": "肉豆蔻属和姜目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Alpinia_艳山姜",
+    "item_name": "艳山姜",
     "genus": "Alpinia",
     "genus_zh": "山姜属",
     "family_zh": "姜科",
@@ -2824,6 +2858,23 @@
   {
     "item_id": "Cocos_椰子油",
     "item_name": "椰子油",
+    "genus": "Cocos",
+    "genus_zh": "椰属",
+    "family_zh": "棕榈科",
+    "category": "棕榈科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cocos_椰子壳",
+    "item_name": "椰子壳",
     "genus": "Cocos",
     "genus_zh": "椰属",
     "family_zh": "棕榈科",
