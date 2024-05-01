@@ -1581,6 +1581,74 @@
     "comment": ""
   },
   {
+    "item_id": "Cucurbita_南瓜",
+    "item_name": "南瓜",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucurbita_南瓜籽",
+    "item_name": "南瓜籽",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucurbita_南瓜苗",
+    "item_name": "南瓜苗",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Cucurbita_南瓜花",
+    "item_name": "南瓜花",
+    "genus": "Cucurbita",
+    "genus_zh": "南瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Musa_香蕉",
     "item_name": "香蕉",
     "genus": "Musa",
