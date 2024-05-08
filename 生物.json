@@ -1649,6 +1649,40 @@
     "comment": ""
   },
   {
+    "item_id": "Luffa_丝瓜",
+    "item_name": "丝瓜",
+    "genus": "Luffa",
+    "genus_zh": "丝瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Benincasa_冬瓜",
+    "item_name": "冬瓜",
+    "genus": "Benincasa",
+    "genus_zh": "冬瓜属",
+    "family_zh": "葫芦科",
+    "category": "葫芦科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Musa_香蕉",
     "item_name": "香蕉",
     "genus": "Musa",
