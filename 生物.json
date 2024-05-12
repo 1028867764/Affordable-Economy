@@ -17,6 +17,23 @@
     "comment": ""
   },
   {
+    "item_id": "Mentha_留兰香薄荷",
+    "item_name": "留兰香薄荷",
+    "genus": "Mentha",
+    "genus_zh": "薄荷属",
+    "family_zh": "唇形科",
+    "category": "唇形目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Agastache_藿香",
     "item_name": "藿香",
     "genus": "Agastache",
@@ -1683,8 +1700,8 @@
     "comment": ""
   },
   {
-    "item_id": "Musa_香蕉",
-    "item_name": "香蕉",
+    "item_id": "Musa_Williams香蕉",
+    "item_name": "Williams香蕉",
     "genus": "Musa",
     "genus_zh": "芭蕉属",
     "family_zh": "芭蕉科",
