@@ -408,6 +408,23 @@
     "comment": ""
   },
   {
+    "item_id": "Glycine_黄豆芽",
+    "item_name": "黄豆芽",
+    "genus": "Glycine",
+    "genus_zh": "大豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Vigna_豇豆荚",
     "item_name": "豇豆荚",
     "genus": "Vigna",
@@ -444,6 +461,23 @@
   {
     "item_id": "Vigna_绿豆",
     "item_name": "绿豆",
+    "genus": "Vigna",
+    "genus_zh": "豇豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Vigna_绿豆芽",
+    "item_name": "绿豆芽",
     "genus": "Vigna",
     "genus_zh": "豇豆属",
     "family_zh": "豆科",
@@ -580,6 +614,23 @@
   {
     "item_id": "Pisum_豌豆藤",
     "item_name": "豌豆藤",
+    "genus": "Pisum",
+    "genus_zh": "豌豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pisum_豌豆芽",
+    "item_name": "豌豆芽",
     "genus": "Pisum",
     "genus_zh": "豌豆属",
     "family_zh": "豆科",
