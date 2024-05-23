@@ -2907,44 +2907,10 @@
     "comment": ""
   },
   {
-    "item_id": "Polygonatum_黄精",
-    "item_name": "黄精",
-    "genus": "Polygonatum",
-    "genus_zh": "黄精属",
-    "family_zh": "天门冬科",
-    "category": "天门冬目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Polygonatum_玉竹",
     "item_name": "玉竹",
     "genus": "Polygonatum",
     "genus_zh": "黄精属",
-    "family_zh": "天门冬科",
-    "category": "天门冬目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Ophiopogon_麦冬",
-    "item_name": "麦冬",
-    "genus": "Ophiopogon",
-    "genus_zh": "沿阶草属",
     "family_zh": "天门冬科",
     "category": "天门冬目",
     "species": "",
