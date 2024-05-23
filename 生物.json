@@ -1854,7 +1854,7 @@
   },
   {
     "item_id": "Alpinia_艳山姜",
-    "item_name": "艳山姜",
+    "item_name": "艳山姜(zerumbet)",
     "genus": "Alpinia",
     "genus_zh": "山姜属",
     "family_zh": "姜科",
@@ -1871,7 +1871,7 @@
   },
   {
     "item_id": "Wurfbainia_爪哇白豆蔻",
-    "item_name": "爪哇白豆蔻",
+    "item_name": "爪哇白豆蔻(compacta)",
     "genus": "Wurfbainia",
     "genus_zh": "砂仁属",
     "family_zh": "姜科",
@@ -1888,7 +1888,7 @@
   },
   {
     "item_id": "Wurfbainia_阳春砂",
-    "item_name": "阳春砂",
+    "item_name": "阳春砂(villosa)",
     "genus": "Wurfbainia",
     "genus_zh": "砂仁属",
     "family_zh": "姜科",
@@ -1905,7 +1905,7 @@
   },
   {
     "item_id": "lanxangia_草果",
-    "item_name": "草果",
+    "item_name": "草果(lanxangia)",
     "genus": "lanxangia",
     "genus_zh": "草果属",
     "family_zh": "姜科",
@@ -2010,6 +2010,23 @@
     "item_name": "葵花籽",
     "genus": "Helianthus",
     "genus_zh": "向日葵属",
+    "family_zh": "菊科",
+    "category": "菊科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Chrysanthemum_菊花",
+    "item_name": "菊花",
+    "genus": "Chrysanthemum",
+    "genus_zh": "菊属",
     "family_zh": "菊科",
     "category": "菊科",
     "species": "",
@@ -2283,6 +2300,40 @@
     "genus": "Ziziphus",
     "genus_zh": "枣属",
     "family_zh": "鼠李科",
+    "category": "蔷薇目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Morus_桑叶",
+    "item_name": "桑叶",
+    "genus": "Morus",
+    "genus_zh": "桑属",
+    "family_zh": "桑科",
+    "category": "蔷薇目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Ficus_粗叶榕",
+    "item_name": "粗叶榕（五指毛桃）",
+    "genus": "Ficus",
+    "genus_zh": "榕属",
+    "family_zh": "桑科",
     "category": "蔷薇目",
     "species": "",
     "species_zh": "",
