@@ -34,10 +34,10 @@
     "comment": ""
   },
   {
-    "item_id": "Agastache_藿香",
-    "item_name": "藿香",
-    "genus": "Agastache",
-    "genus_zh": "藿香属",
+    "item_id": "Pogostemon_广藿香",
+    "item_name": "广藿香",
+    "genus": "Pogostemon",
+    "genus_zh": "刺蕊草属",
     "family_zh": "唇形科",
     "category": "唇形目",
     "species": "",
@@ -2244,8 +2244,8 @@
     "comment": ""
   },
   {
-    "item_id": "Rosa_礼物玫瑰",
-    "item_name": "礼物玫瑰",
+    "item_id": "Rosa_卡罗拉玫瑰",
+    "item_name": "卡罗拉玫瑰",
     "genus": "Rosa",
     "genus_zh": "蔷薇属",
     "family_zh": "蔷薇科",
@@ -2261,8 +2261,25 @@
     "comment": ""
   },
   {
-    "item_id": "Rosa_突厥蔷薇",
-    "item_name": "突厥蔷薇",
+    "item_id": "Rosa_戴安娜玫瑰",
+    "item_name": "戴安娜玫瑰",
+    "genus": "Rosa",
+    "genus_zh": "蔷薇属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Rosa_精油玫瑰",
+    "item_name": "精油玫瑰",
     "genus": "Rosa",
     "genus_zh": "蔷薇属",
     "family_zh": "蔷薇科",
@@ -2997,23 +3014,6 @@
     "genus": "Dimocarpus",
     "genus_zh": "龙眼属",
     "family_zh": "无患子科",
-    "category": "无患子目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Clausena_黄皮果",
-    "item_name": "黄皮果",
-    "genus": "Clausena",
-    "genus_zh": "黄皮属",
-    "family_zh": "芸香科",
     "category": "无患子目",
     "species": "",
     "species_zh": "",
