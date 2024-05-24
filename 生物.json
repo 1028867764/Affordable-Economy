@@ -2261,6 +2261,23 @@
     "comment": ""
   },
   {
+    "item_id": "Rosa_黑魔术玫瑰",
+    "item_name": "黑魔术玫瑰",
+    "genus": "Rosa",
+    "genus_zh": "蔷薇属",
+    "family_zh": "蔷薇科",
+    "category": "蔷薇目",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Rosa_戴安娜玫瑰",
     "item_name": "戴安娜玫瑰",
     "genus": "Rosa",
