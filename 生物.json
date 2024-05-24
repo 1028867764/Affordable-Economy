@@ -493,6 +493,23 @@
     "comment": ""
   },
   {
+    "item_id": "Vigna_绿豆淀粉",
+    "item_name": "绿豆淀粉",
+    "genus": "Vigna",
+    "genus_zh": "豇豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
     "item_id": "Vigna_红豆",
     "item_name": "红豆",
     "genus": "Vigna",
@@ -631,6 +648,23 @@
   {
     "item_id": "Pisum_豌豆芽",
     "item_name": "豌豆芽",
+    "genus": "Pisum",
+    "genus_zh": "豌豆属",
+    "family_zh": "豆科",
+    "category": "豆科",
+    "species": "",
+    "species_zh": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item_id": "Pisum_豌豆淀粉",
+    "item_name": "豌豆淀粉",
     "genus": "Pisum",
     "genus_zh": "豌豆属",
     "family_zh": "豆科",
