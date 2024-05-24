@@ -442,8 +442,34 @@
     "comment": ""
   },
   {
-    "item-id": "石膏",
-    "item-name": "石膏",
+    "item-id": "生石膏",
+    "item-name": "生石膏",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "熟石膏",
+    "item-name": "熟石膏",
+    "category": "矿物材料",
+    "note": "",
+    "brief": "",
+    "detail": {
+      "differentiate": "",
+      "produce": "",
+      "apply": ""
+    },
+    "comment": ""
+  },
+  {
+    "item-id": "氯化镁",
+    "item-name": "氯化镁",
     "category": "矿物材料",
     "note": "",
     "brief": "",
