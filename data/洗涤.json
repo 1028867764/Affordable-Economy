@@ -1,7 +1,7 @@
 [
   {
-    "item-id": "月桂醇聚醚硫酸酯钠",
-    "item-name": "月桂醇聚醚硫酸酯钠",
+    "item_id": "月桂醇聚醚硫酸酯钠",
+    "item_name": "月桂醇聚醚硫酸酯钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -13,8 +13,8 @@
     "comment": ""
   },
   {
-    "item-id": "月桂醇硫酸酯钠",
-    "item-name": "月桂醇硫酸酯钠",
+    "item_id": "月桂醇硫酸酯钠",
+    "item_name": "月桂醇硫酸酯钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -26,8 +26,8 @@
     "comment": ""
   },
   {
-    "item-id": "月桂酰胺肌氨酸钠",
-    "item-name": "月桂酰胺肌氨酸钠",
+    "item_id": "月桂酰胺肌氨酸钠",
+    "item_name": "月桂酰胺肌氨酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -39,8 +39,8 @@
     "comment": ""
   },
   {
-    "item-id": "月桂酰胺谷氨酸钠",
-    "item-name": "月桂酰胺谷氨酸钠",
+    "item_id": "月桂酰胺谷氨酸钠",
+    "item_name": "月桂酰胺谷氨酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -52,8 +52,8 @@
     "comment": ""
   },
   {
-    "item-id": "月桂酰胺基丙基甜菜碱",
-    "item-name": "月桂酰胺基丙基甜菜碱",
+    "item_id": "月桂酰胺基丙基甜菜碱",
+    "item_name": "月桂酰胺基丙基甜菜碱",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -65,8 +65,8 @@
     "comment": ""
   },
   {
-    "item-id": "硬脂酸钠",
-    "item-name": "硬脂酸钠",
+    "item_id": "硬脂酸钠",
+    "item_name": "硬脂酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -78,8 +78,8 @@
     "comment": ""
   },
   {
-    "item-id": "棕榈酸钠",
-    "item-name": "棕榈酸钠",
+    "item_id": "棕榈酸钠",
+    "item_name": "棕榈酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -91,8 +91,8 @@
     "comment": ""
   },
   {
-    "item-id": "直链十二烷基苯磺酸钠",
-    "item-name": "直链十二烷基苯磺酸钠",
+    "item_id": "直链十二烷基苯磺酸钠",
+    "item_name": "直链十二烷基苯磺酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -104,8 +104,8 @@
     "comment": ""
   },
   {
-    "item-id": "椰油酰胺DEA",
-    "item-name": "椰油酰胺DEA",
+    "item_id": "椰油酰胺DEA",
+    "item_name": "椰油酰胺DEA",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -117,8 +117,8 @@
     "comment": ""
   },
   {
-    "item-id": "椰油酰胺MEA",
-    "item-name": "椰油酰胺MEA",
+    "item_id": "椰油酰胺MEA",
+    "item_name": "椰油酰胺MEA",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -130,8 +130,8 @@
     "comment": ""
   },
   {
-    "item-id": "鲸蜡硬脂醇",
-    "item-name": "鲸蜡硬脂醇",
+    "item_id": "鲸蜡硬脂醇",
+    "item_name": "鲸蜡硬脂醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -143,8 +143,8 @@
     "comment": ""
   },
   {
-    "item-id": "甘油",
-    "item-name": "甘油",
+    "item_id": "甘油",
+    "item_name": "甘油",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -156,8 +156,8 @@
     "comment": ""
   },
   {
-    "item-id": "鲸蜡硬脂基三甲基氯化铵",
-    "item-name": "鲸蜡硬脂基三甲基氯化铵",
+    "item_id": "鲸蜡硬脂基三甲基氯化铵",
+    "item_name": "鲸蜡硬脂基三甲基氯化铵",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -169,8 +169,8 @@
     "comment": ""
   },
   {
-    "item-id": "聚二甲基硅氧烷",
-    "item-name": "聚二甲基硅氧烷",
+    "item_id": "聚二甲基硅氧烷",
+    "item_name": "聚二甲基硅氧烷",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -182,8 +182,8 @@
     "comment": ""
   },
   {
-    "item-id": "聚二甲基硅氧烷醇",
-    "item-name": "聚二甲基硅氧烷醇",
+    "item_id": "聚二甲基硅氧烷醇",
+    "item_name": "聚二甲基硅氧烷醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -195,8 +195,8 @@
     "comment": ""
   },
   {
-    "item-id": "泛醇",
-    "item-name": "泛醇",
+    "item_id": "泛醇",
+    "item_name": "泛醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -208,8 +208,8 @@
     "comment": ""
   },
   {
-    "item-id": "EDTA二钠",
-    "item-name": "EDTA二钠",
+    "item_id": "EDTA二钠",
+    "item_name": "EDTA二钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -221,8 +221,8 @@
     "comment": ""
   },
   {
-    "item-id": "EDTA四钠",
-    "item-name": "EDTA四钠",
+    "item_id": "EDTA四钠",
+    "item_name": "EDTA四钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -234,8 +234,8 @@
     "comment": ""
   },
   {
-    "item-id": "乙二醇二硬脂酸钠",
-    "item-name": "乙二醇二硬脂酸钠",
+    "item_id": "乙二醇二硬脂酸钠",
+    "item_name": "乙二醇二硬脂酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -247,8 +247,8 @@
     "comment": ""
   },
   {
-    "item-id": "苯氧乙醇",
-    "item-name": "苯氧乙醇",
+    "item_id": "苯氧乙醇",
+    "item_name": "苯氧乙醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -260,8 +260,8 @@
     "comment": ""
   },
   {
-    "item-id": "苯甲酸钠",
-    "item-name": "苯甲酸钠",
+    "item_id": "苯甲酸钠",
+    "item_name": "苯甲酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -273,8 +273,8 @@
     "comment": ""
   },
   {
-    "item-id": "山梨酸钾",
-    "item-name": "山梨酸钾",
+    "item_id": "山梨酸钾",
+    "item_name": "山梨酸钾",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -286,8 +286,8 @@
     "comment": ""
   },
   {
-    "item-id": "柠檬酸",
-    "item-name": "柠檬酸",
+    "item_id": "柠檬酸",
+    "item_name": "柠檬酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -299,8 +299,8 @@
     "comment": ""
   },
   {
-    "item-id": "烧碱",
-    "item-name": "烧碱",
+    "item_id": "烧碱",
+    "item_name": "烧碱",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -312,8 +312,8 @@
     "comment": ""
   },
   {
-    "item-id": "元明粉",
-    "item-name": "元明粉",
+    "item_id": "元明粉",
+    "item_name": "元明粉",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -325,8 +325,8 @@
     "comment": ""
   },
   {
-    "item-id": "纯碱",
-    "item-name": "纯碱",
+    "item_id": "纯碱",
+    "item_name": "纯碱",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -338,8 +338,8 @@
     "comment": ""
   },
   {
-    "item-id": "硅酸钠",
-    "item-name": "硅酸钠",
+    "item_id": "硅酸钠",
+    "item_name": "硅酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -351,8 +351,8 @@
     "comment": ""
   },
   {
-    "item-id": "香芹酮",
-    "item-name": "香芹酮",
+    "item_id": "香芹酮",
+    "item_name": "香芹酮",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -364,8 +364,8 @@
     "comment": ""
   },
   {
-    "item-id": "薄荷醇",
-    "item-name": "薄荷醇",
+    "item_id": "薄荷醇",
+    "item_name": "薄荷醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -377,8 +377,8 @@
     "comment": ""
   },
   {
-    "item-id": "β-苯乙醇",
-    "item-name": "β-苯乙醇",
+    "item_id": "β-苯乙醇",
+    "item_name": "β-苯乙醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -390,8 +390,8 @@
     "comment": ""
   },
   {
-    "item-id": "月桂醇",
-    "item-name": "月桂醇",
+    "item_id": "月桂醇",
+    "item_name": "月桂醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -403,8 +403,8 @@
     "comment": ""
   },
   {
-    "item-id": "芳樟醇",
-    "item-name": "芳樟醇",
+    "item_id": "芳樟醇",
+    "item_name": "芳樟醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -416,8 +416,8 @@
     "comment": ""
   },
   {
-    "item-id": "柠檬醛",
-    "item-name": "柠檬醛",
+    "item_id": "柠檬醛",
+    "item_name": "柠檬醛",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -429,8 +429,8 @@
     "comment": ""
   },
   {
-    "item-id": "橙花醇",
-    "item-name": "橙花醇",
+    "item_id": "橙花醇",
+    "item_name": "橙花醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -442,8 +442,8 @@
     "comment": ""
   },
   {
-    "item-id": "牻牛儿醇",
-    "item-name": "牻牛儿醇",
+    "item_id": "牻牛儿醇",
+    "item_name": "牻牛儿醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -455,8 +455,8 @@
     "comment": ""
   },
   {
-    "item-id": "丁香油酚",
-    "item-name": "丁香油酚",
+    "item_id": "丁香油酚",
+    "item_name": "丁香油酚",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -468,8 +468,8 @@
     "comment": ""
   },
   {
-    "item-id": "玫瑰醚",
-    "item-name": "玫瑰醚",
+    "item_id": "玫瑰醚",
+    "item_name": "玫瑰醚",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -481,8 +481,8 @@
     "comment": ""
   },
   {
-    "item-id": "异戊酸异戊酯",
-    "item-name": "异戊酸异戊酯",
+    "item_id": "异戊酸异戊酯",
+    "item_name": "异戊酸异戊酯",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -494,8 +494,8 @@
     "comment": ""
   },
   {
-    "item-id": "CI_19140",
-    "item-name": "CI_19140",
+    "item_id": "CI_19140",
+    "item_name": "CI_19140",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -507,8 +507,8 @@
     "comment": ""
   },
   {
-    "item-id": "二甲醚",
-    "item-name": "二甲醚",
+    "item_id": "二甲醚",
+    "item_name": "二甲醚",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -520,8 +520,8 @@
     "comment": ""
   },
   {
-    "item-id": "乙醇",
-    "item-name": "乙醇",
+    "item_id": "乙醇",
+    "item_name": "乙醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -533,8 +533,8 @@
     "comment": ""
   },
   {
-    "item-id": "丙二醇",
-    "item-name": "丙二醇",
+    "item_id": "丙二醇",
+    "item_name": "丙二醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -546,8 +546,8 @@
     "comment": ""
   },
   {
-    "item-id": "丁二醇",
-    "item-name": "丁二醇",
+    "item_id": "丁二醇",
+    "item_name": "丁二醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -559,8 +559,8 @@
     "comment": ""
   },
   {
-    "item-id": "异丙醇",
-    "item-name": "异丙醇",
+    "item_id": "异丙醇",
+    "item_name": "异丙醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -572,8 +572,8 @@
     "comment": ""
   },
   {
-    "item-id": "对甲苯磺酸钠",
-    "item-name": "对甲苯磺酸钠",
+    "item_id": "对甲苯磺酸钠",
+    "item_name": "对甲苯磺酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -585,8 +585,8 @@
     "comment": ""
   },
   {
-    "item-id": "二甲苯磺酸钠",
-    "item-name": "二甲苯磺酸钠",
+    "item_id": "二甲苯磺酸钠",
+    "item_name": "二甲苯磺酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -598,8 +598,8 @@
     "comment": ""
   },
   {
-    "item-id": "氧化锌",
-    "item-name": "氧化锌",
+    "item_id": "氧化锌",
+    "item_name": "氧化锌",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -611,8 +611,8 @@
     "comment": ""
   },
   {
-    "item-id": "吡硫鎓锌",
-    "item-name": "吡硫鎓锌",
+    "item_id": "吡硫鎓锌",
+    "item_name": "吡硫鎓锌",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -624,8 +624,8 @@
     "comment": ""
   },
   {
-    "item-id": "磷酸氢钙",
-    "item-name": "磷酸氢钙",
+    "item_id": "磷酸氢钙",
+    "item_name": "磷酸氢钙",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -637,8 +637,8 @@
     "comment": ""
   },
   {
-    "item-id": "山梨糖醇",
-    "item-name": "山梨糖醇",
+    "item_id": "山梨糖醇",
+    "item_name": "山梨糖醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -650,8 +650,8 @@
     "comment": ""
   },
   {
-    "item-id": "木糖醇",
-    "item-name": "木糖醇",
+    "item_id": "木糖醇",
+    "item_name": "木糖醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -663,8 +663,8 @@
     "comment": ""
   },
   {
-    "item-id": "聚乙二醇",
-    "item-name": "聚乙二醇",
+    "item_id": "聚乙二醇",
+    "item_name": "聚乙二醇",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -676,8 +676,8 @@
     "comment": ""
   },
   {
-    "item-id": "单氟磷酸钠",
-    "item-name": "单氟磷酸钠",
+    "item_id": "单氟磷酸钠",
+    "item_name": "单氟磷酸钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -689,8 +689,8 @@
     "comment": ""
   },
   {
-    "item-id": "糖精钠",
-    "item-name": "糖精钠",
+    "item_id": "糖精钠",
+    "item_name": "糖精钠",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -702,8 +702,8 @@
     "comment": ""
   },
   {
-    "item-id": "APG",
-    "item-name": "直链烷基葡萄糖苷",
+    "item_id": "APG",
+    "item_name": "直链烷基葡萄糖苷",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -715,8 +715,8 @@
     "comment": ""
   },
   {
-    "item-id": "次氯酸盐",
-    "item-name": "次氯酸盐",
+    "item_id": "次氯酸盐",
+    "item_name": "次氯酸盐",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -728,8 +728,8 @@
     "comment": ""
   },
   {
-    "item-id": "碱性蛋白酶",
-    "item-name": "碱性蛋白酶",
+    "item_id": "碱性蛋白酶",
+    "item_name": "碱性蛋白酶",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -741,8 +741,8 @@
     "comment": ""
   },
   {
-    "item-id": "月桂酸",
-    "item-name": "月桂酸",
+    "item_id": "月桂酸",
+    "item_name": "月桂酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -754,8 +754,8 @@
     "comment": ""
   },
   {
-    "item-id": "肉豆蔻酸",
-    "item-name": "肉豆蔻酸",
+    "item_id": "肉豆蔻酸",
+    "item_name": "肉豆蔻酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -767,8 +767,8 @@
     "comment": ""
   },
   {
-    "item-id": "棕榈酸",
-    "item-name": "棕榈酸",
+    "item_id": "棕榈酸",
+    "item_name": "棕榈酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -780,8 +780,8 @@
     "comment": ""
   },
   {
-    "item-id": "硬脂酸",
-    "item-name": "硬脂酸",
+    "item_id": "硬脂酸",
+    "item_name": "硬脂酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -793,8 +793,8 @@
     "comment": ""
   },
   {
-    "item-id": "油酸",
-    "item-name": "油酸",
+    "item_id": "油酸",
+    "item_name": "油酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -806,8 +806,8 @@
     "comment": ""
   },
   {
-    "item-id": "亚油酸",
-    "item-name": "亚油酸",
+    "item_id": "亚油酸",
+    "item_name": "亚油酸",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -819,8 +819,8 @@
     "comment": ""
   },
   {
-    "item-id": "活性炭",
-    "item-name": "活性炭",
+    "item_id": "活性炭",
+    "item_name": "活性炭",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -832,8 +832,8 @@
     "comment": ""
   },
   {
-    "item-id": "PAC",
-    "item-name": "聚合氯化铝",
+    "item_id": "PAC",
+    "item_name": "聚合氯化铝",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -845,8 +845,8 @@
     "comment": ""
   },
   {
-    "item-id": "PAS",
-    "item-name": "聚合硫酸铝",
+    "item_id": "PAS",
+    "item_name": "聚合硫酸铝",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -858,8 +858,8 @@
     "comment": ""
   },
   {
-    "item-id": "PFC",
-    "item-name": "聚合氯化铁",
+    "item_id": "PFC",
+    "item_name": "聚合氯化铁",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -871,8 +871,8 @@
     "comment": ""
   },
   {
-    "item-id": "PFS",
-    "item-name": "聚合硫酸铁",
+    "item_id": "PFS",
+    "item_name": "聚合硫酸铁",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -884,8 +884,8 @@
     "comment": ""
   },
   {
-    "item-id": "PVC管",
-    "item-name": "PVC管",
+    "item_id": "PVC管",
+    "item_name": "PVC管",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
@@ -897,8 +897,8 @@
     "comment": ""
   },
   {
-    "item-id": "PPR管",
-    "item-name": "PPR管",
+    "item_id": "PPR管",
+    "item_name": "PPR管",
     "category": "洗涤材料",
     "note": "",
     "brief": "",
