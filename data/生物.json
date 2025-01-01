@@ -187,8 +187,8 @@
     "comment": ""
   },
   {
-    "item_id": "Glycine_黄大豆1号",
-    "item_name": "黄大豆1号",
+    "item_id": "Glycine_黄大豆一号",
+    "item_name": "黄大豆一号",
     "genus": "Glycine",
     "genus_zh": "大豆属",
     "family_zh": "豆科",
@@ -1275,23 +1275,6 @@
     "comment": ""
   },
   {
-    "item_id": "Piper_荜茇",
-    "item_name": "荜茇",
-    "genus": "Piper",
-    "genus_zh": "胡椒属",
-    "family_zh": "",
-    "category": "胡椒属和茄目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Capsicum_辣椒",
     "item_name": "辣椒",
     "genus": "Capsicum",
@@ -1853,76 +1836,8 @@
     "comment": ""
   },
   {
-    "item_id": "Kaempferia_沙姜",
-    "item_name": "沙姜",
-    "genus": "Kaempferia",
-    "genus_zh": "山柰属",
-    "family_zh": "姜科",
-    "category": "姜目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Alpinia_高良姜",
-    "item_name": "高良姜",
-    "genus": "Alpinia",
-    "genus_zh": "山姜属",
-    "family_zh": "姜科",
-    "category": "姜目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Alpinia_艳山姜",
-    "item_name": "艳山姜(zerumbet)",
-    "genus": "Alpinia",
-    "genus_zh": "山姜属",
-    "family_zh": "姜科",
-    "category": "姜目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "Wurfbainia_爪哇白豆蔻",
     "item_name": "爪哇白豆蔻(compacta)",
-    "genus": "Wurfbainia",
-    "genus_zh": "砂仁属",
-    "family_zh": "姜科",
-    "category": "姜目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Wurfbainia_阳春砂",
-    "item_name": "阳春砂(villosa)",
     "genus": "Wurfbainia",
     "genus_zh": "砂仁属",
     "family_zh": "姜科",
@@ -2244,8 +2159,8 @@
     "comment": ""
   },
   {
-    "item_id": "Malus_80mm红富士苹果",
-    "item_name": "80mm红富士苹果",
+    "item_id": "Malus_90mm红富士苹果",
+    "item_name": "90mm红富士苹果",
     "genus": "Malus",
     "genus_zh": "苹果属",
     "family_zh": "蔷薇科",
@@ -2351,40 +2266,6 @@
     "genus": "Ziziphus",
     "genus_zh": "枣属",
     "family_zh": "鼠李科",
-    "category": "蔷薇目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Morus_桑叶",
-    "item_name": "桑叶",
-    "genus": "Morus",
-    "genus_zh": "桑属",
-    "family_zh": "桑科",
-    "category": "蔷薇目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Ficus_粗叶榕",
-    "item_name": "粗叶榕（五指毛桃）",
-    "genus": "Ficus",
-    "genus_zh": "榕属",
-    "family_zh": "桑科",
     "category": "蔷薇目",
     "species": "",
     "species_zh": "",
@@ -2554,23 +2435,6 @@
     "item_name": "板蓝根",
     "genus": "Isatis",
     "genus_zh": "菘蓝属",
-    "family_zh": "十字花科",
-    "category": "十字花科",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Nasturtium_豆瓣菜",
-    "item_name": "豆瓣菜",
-    "genus": "Nasturtium",
-    "genus_zh": "豆瓣菜属",
     "family_zh": "十字花科",
     "category": "十字花科",
     "species": "",
@@ -2929,23 +2793,6 @@
     "genus": "Allium",
     "genus_zh": "葱花属",
     "family_zh": "石蒜科",
-    "category": "天门冬目",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Polygonatum_玉竹",
-    "item_name": "玉竹",
-    "genus": "Polygonatum",
-    "genus_zh": "黄精属",
-    "family_zh": "天门冬科",
     "category": "天门冬目",
     "species": "",
     "species_zh": "",
@@ -3439,23 +3286,6 @@
     "genus": "Colocasia",
     "genus_zh": "芋属",
     "family_zh": "天南星科",
-    "category": "其它植物",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "Dioscorea_山药",
-    "item_name": "山药",
-    "genus": "Dioscorea",
-    "genus_zh": "薯蓣属",
-    "family_zh": "薯蓣科",
     "category": "其它植物",
     "species": "",
     "species_zh": "",
@@ -4726,59 +4556,8 @@
     "comment": ""
   },
   {
-    "item_id": "双孢蘑菇",
-    "item_name": "双孢蘑菇",
-    "genus": "",
-    "genus_zh": "",
-    "family_zh": "",
-    "category": "菌类与味精",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "草菇",
-    "item_name": "草菇",
-    "genus": "",
-    "genus_zh": "",
-    "family_zh": "",
-    "category": "菌类与味精",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
     "item_id": "香菇",
     "item_name": "香菇",
-    "genus": "",
-    "genus_zh": "",
-    "family_zh": "",
-    "category": "菌类与味精",
-    "species": "",
-    "species_zh": "",
-    "brief": "",
-    "detail": {
-      "differentiate": "",
-      "produce": "",
-      "apply": ""
-    },
-    "comment": ""
-  },
-  {
-    "item_id": "虫草花",
-    "item_name": "虫草花",
     "genus": "",
     "genus_zh": "",
     "family_zh": "",
